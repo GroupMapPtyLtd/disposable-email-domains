@@ -2849,6 +2849,7 @@ antonija.com
 antoniou-consulting.com
 antonme.dev
 antrikot.ru
+anuefa.com
 anufytoh.space
 anvillondon.net
 anxmalls.com
@@ -3067,20 +3068,25 @@ arcadesatx.com
 arcanite.com
 arcb.site
 arch.cd
+archanyfile.site
 archanylib.site
 archawesomebook.site
+archawesomebooks.site
 archawesomelib.site
 archawesometext.site
 archetypeelectric.com
 archex.pl
 archfinancial.com
 archfreebook.site
+archfreefiles.site
 archfreelib.site
 archfreshbook.site
 archfreshbooks.site
 archfreshtext.site
 archgoodbooks.site
+archgoodfile.site
 archgoodfiles.site
+archgoodtext.site
 architectblog.com
 architectcurvature.site
 architects2.com
@@ -3621,6 +3627,7 @@ awesomedirfiles.site
 awesomeemail.bid
 awesomefreshstuff.site
 awesomefreshtext.site
+awesomelistbooks.site
 awesomemail.bid
 awesomemail.win
 awesomenewbooks.site
@@ -4393,6 +4400,9 @@ bestkonto.pl
 bestleo.online
 bestlibfile.site
 bestlibfiles.site
+bestlibtext.site
+bestlistbook.site
+bestliststuff.site
 bestlisttext.site
 bestlivecamporn.com
 bestlivesexsites.com
@@ -4408,6 +4418,7 @@ bestmail24.tk
 bestmeal.in
 bestmike.online
 bestmovieslist.net
+bestnewbook.site
 bestnewbooks.site
 bestnewnashville.com
 bestnewtext.site
@@ -4635,6 +4646,7 @@ bigribmir.net
 bigrocksolutions.com
 bigsawmir.net
 bigseopro.co.za
+bigshop79.com
 bigskelmmir.net
 bigtepmir.net
 bigtesmir.net
@@ -5254,6 +5266,7 @@ bookd.press
 bookd.site
 bookea.site
 bookec.site
+bookee.site
 bookei.site
 bookej.site
 bookek.site
@@ -10048,6 +10061,7 @@ ellora.us
 elmhurstdentalcare.com
 eloelo.com
 elokalna.pl
+eloltsf.com
 elpacar.ml
 elpasoquote.com
 elpisfil.org
@@ -10415,6 +10429,7 @@ erlera.gq
 ermacgroup.cd
 ermailo.com
 ermawork.gq
+ermtia.com
 erni.group
 ero-king.com
 eroioppai.xyz
@@ -11213,6 +11228,7 @@ filera.site
 filerf.site
 filerl.site
 filern.site
+filero.site
 filerp.site
 filers.site
 files.vipgod.ru
@@ -14606,6 +14622,7 @@ ieahhwt.com
 ieasymail.net
 ieatsugar.com
 ieeeves.org
+ieellrue.com
 iehm.com
 iekzzu.com
 iel.pw
@@ -15335,6 +15352,7 @@ ixoxmail.com
 iyaomail.com
 iyapokers.com
 iybh.com
+iyettslod.com
 iyjf.com
 iyjv.com
 iymail.com
@@ -19476,6 +19494,7 @@ mobilhondasidoarjo.com
 mobiliddaa21.com
 mobilj.site
 mobilk.site
+mobilq.site
 mobilr.site
 mobils.site
 mobilt.site
@@ -19950,6 +19969,7 @@ my-yda.com
 my.blatnet.com
 my.cowsnbullz.com
 my.hammerhandz.com
+my.hellohappy2.com
 my.lakemneadows.com
 my.makingdomes.com
 my.ploooop.com
@@ -20728,6 +20748,7 @@ nnb525.com
 nnb539.com
 nnew.com
 nnn9827.com
+nntcesht.com
 nnvl.com
 nnyes.com
 no-spam.ws
@@ -20991,6 +21012,7 @@ nwak.com
 nwautoleather.com
 nwesmail.com
 nwheart.com
+nwhsii.com
 nwjs.com
 nwlionstore.com
 nwor.com
@@ -21050,6 +21072,7 @@ oakfiling.com
 oakmountaintech.com
 oalew.com
 oamail.com
+oanbeeg.com
 oaodb.com
 oarange.fr
 oarturbo.site
@@ -21783,6 +21806,7 @@ ovea.pl
 ovejes.gq
 ovenprices.com
 over-you-24.com
+over.ploooop.com
 over.popautomated.com
 overclockage.com
 overdrivemedia.com
@@ -22356,6 +22380,7 @@ phattangent.com
 phattich.com
 phbikemart.com
 phdlfy.com
+phdriw.com
 phecti.com
 phefinsi.ga
 phefinsi.gq
@@ -27083,6 +27108,7 @@ suppg.site
 supph.site
 suppi.site
 suppk.site
+suppl.site
 suppm.site
 suppo.site
 support247live.us
@@ -28580,6 +28606,7 @@ tree.blatnet.com
 tree.emailies.com
 tree.heartmantwo.com
 tree.ploooop.com
+tree.pointbuysys.com
 treecaremgmt.com
 treeheir.com
 treehouselive.net
@@ -28910,6 +28937,7 @@ txtc.press
 txtc.site
 txtc.space
 txtd.site
+txte.site
 txtea.site
 txted.site
 txteg.site
@@ -28923,6 +28951,7 @@ txtii.site
 txtiu.site
 txtiw.site
 txtix.site
+txtiy.site
 txtj.site
 txtk.site
 txtm.site
@@ -32036,6 +32065,7 @@ zipsm.site
 zipsmtp.com
 zipsn.site
 zipso.site
+zipsp.site
 zipsq.site
 zipsr.site
 zipss.site
@@ -44340,9 +44370,7 @@ arcelormittal-construction.pl
 archaicindustries.buzz
 archanybook.site
 archanybooks.site
-archanyfile.site
 archanylibrary.site
-archawesomebooks.site
 archawesomelibrary.site
 archbotcher.best
 archeage-gold.co.uk
@@ -44353,13 +44381,10 @@ archerrygames.com
 archetypes.cd
 archevron.com
 archfreefile.site
-archfreefiles.site
 archfreelibrary.site
 archfreshfiles.site
 archfreshlibrary.site
-archgoodfile.site
 archgoodlib.site
-archgoodtext.site
 architektwarszawaa.pl
 archiveus.best
 archnicelibrary.site
@@ -46029,7 +46054,6 @@ awesomelibfiles.site
 awesomelibtext.site
 awesomelibtexts.site
 awesomelistbook.site
-awesomelistbooks.site
 awesomelistfile.site
 awesomelisttexts.site
 awesomeofferings.com
@@ -48542,10 +48566,7 @@ bestkitchens.fun
 bestlakertickets.com
 bestlawyerinhouston.com
 bestlibbooks.site
-bestlibtext.site
 bestlistbase.com
-bestlistbook.site
-bestliststuff.site
 bestlocalrating.net
 bestloot.tk
 bestlordsmobilehack.eu
@@ -48572,7 +48593,6 @@ bestn4box.ru
 bestnecklacessale.info
 bestnerfblaster.com
 bestneuropathytreatment.com
-bestnewbook.site
 bestnews365.info
 bestnewvacuums.com
 bestofamor.com
@@ -51012,7 +51032,6 @@ bookat.us
 bookclick.online
 bookclubfiction.net
 bookeb.site
-bookee.site
 bookef.site
 bookeg.site
 bookeh.site
@@ -57908,7 +57927,6 @@ correo.blogos.net
 correos-es.site
 corrientelatina.net
 corrupt.life
-corseesconnect1to1.com
 corsovenezia.com
 cortex.kicks-ass.net
 cortexconcept.com
@@ -59408,6 +59426,7 @@ d4eclvewyzylpg7ig.tk
 d4ffwamjrua3ayp.xyz
 d4jgpnug.xyz
 d4networks.org
+d4wan.com
 d52.online
 d52tm.com
 d54a169.club
@@ -63905,7 +63924,6 @@ dundersportwetten.com
 dundo.tk
 dunesafaricamp.com
 dungeon-mini.com
-dunia-maya.net
 duniacewek.net
 duniawirosableng.com
 dunkathon.com
@@ -65654,7 +65672,6 @@ elmoscow.ru
 elmoust.ru
 elmundillodental.com
 elograder.com
-eloltsf.com
 elon-spb.ru
 eloom.live
 elorift.com
@@ -69448,7 +69465,6 @@ fileri.site
 filerj.site
 filerk.site
 filerm.site
-filero.site
 filerpost.xyz
 filerr.site
 filert.site
@@ -74348,6 +74364,7 @@ gocardless.dev
 gocardonationok.haus
 gocardonationsok.haus
 gocase.ru
+gocasin.com
 gocekyatdoseme.xyz
 gocengqq.us
 gocfunny.info
@@ -79517,6 +79534,7 @@ hprehf28r8dtn1i.ga
 hprehf28r8dtn1i.gq
 hprehf28r8dtn1i.ml
 hprehf28r8dtn1i.tk
+hprepaidbv.com
 hps-grow-lights.net
 hpsyw.info
 hptxw.info
@@ -80832,7 +80850,6 @@ ieattach.ml
 iecrater.com
 iecusa.net
 iedindon.ml
-ieellrue.com
 iefbcieuf.cf
 iefbcieuf.ml
 iefbcieuf.tk
@@ -97181,7 +97198,6 @@ mobilo.site
 mobiloyna29.com
 mobilp.site
 mobilpham.com
-mobilq.site
 mobilv.site
 mobilw.site
 mobilx.site
@@ -97956,6 +97972,7 @@ mowtpk.us
 mox.pp.ua
 moxcasonaixe.xyz
 moxinbox.info
+moxkid.com
 moxremodel.com
 moy-elektrik.ru
 moya-ze.com
@@ -99347,6 +99364,7 @@ myspamless.com
 mystartupweekendpitch.info
 mystery-samurai.com
 mystiknetworks.com
+mystoreworld.online
 mystufffb.fun
 mystvpn.com
 mystyleuae.xyz
@@ -99613,6 +99631,7 @@ nafilllo.ml
 nafilllo.tk
 nafko.cf
 nafrem3456ails.com
+nafxo.com
 naga.email
 naga303.us
 nagabagus.com
@@ -104979,6 +104998,7 @@ otekyc.xyz
 otel-rehberi.com
 otelsi.info
 oteuecra.site
+otezuot.com
 othedsordeddy.info
 otheranimals.ru
 otherbla.icu
@@ -112493,6 +112513,7 @@ raidtalk.com
 raiffmob2.ru
 raifgo.space
 raifzus.website
+raihnkhalid.codes
 raikas77.eu
 rail-news.info
 railroad-gifts.com
@@ -117738,6 +117759,7 @@ scanning.app
 scanonline.mobi
 scanonline.org
 scantobrowser.com
+scaptiean.com
 scarfga.com
 scarry-rp.com
 scarymovies.biz
@@ -124139,6 +124161,7 @@ superstarsevens.com
 superstarvideo.ru
 supersufficiency.best
 supertemporarymails.tk
+superth.in
 supertotobet.tv
 supertotobet0417.com
 supertotobet0428.com
@@ -124174,7 +124197,6 @@ suppdiwaren.ddns.me.uk
 supperdryface-fr.com
 supperesierfaster.xyz
 suppj.site
-suppl.site
 supplement-analysis.com
 supplements.gov
 supplybluelineproducts.com
@@ -129316,7 +129338,6 @@ tphqmdtqustuzptqu.ru
 tpib5y.us
 tpiecer.best
 tpk.community
-tplcaehs.com
 tplccioef.shop
 tplqbom.com
 tpmail.top
@@ -130146,7 +130167,6 @@ trusted.wine
 trustedcvvshop.ru
 trustedhosts.net
 trustedproducts.info
-trustfarma.online
 trustfb.online
 trustfb.site
 trustfb.xyz
@@ -130959,7 +130979,6 @@ txt10xqa7atssvbrf.ml
 txt10xqa7atssvbrf.tk
 txt7e99.com
 txtadvertise.com
-txte.site
 txteb.site
 txtec.site
 txtee.site
@@ -130983,7 +131002,6 @@ txtir.site
 txtis.site
 txtit.site
 txtiv.site
-txtiy.site
 txtiz.site
 txtl.site
 txtp.site
@@ -143017,7 +143035,6 @@ zipsi.site
 zipsj.site
 zipsk.site
 zipsnag.com
-zipsp.site
 zipst.site
 zipsu.site
 zipsx.site
