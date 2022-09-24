@@ -6828,6 +6828,7 @@ btcmod.com
 btcoinx.com
 btcontracts.com
 btcposters.com
+btcprestige.net
 btcrobotreviews.org
 btctele.com
 btdavis.com
@@ -8853,6 +8854,7 @@ cniirv.com
 cninefails.us
 cninstant.com
 cnobb.website
+cnpcapitalbank.com
 cnsg-host.com
 cnshouyin.com
 cntinnuo.com
@@ -15681,6 +15683,7 @@ gmail.com.gmail.com.m.oazis.site
 gmail.com.gmail.gmail.cad.creou.dev
 gmail.com.marcsplaza.com
 gmail.com.networkrank.com
+gmail.com.sahabatasas.com
 gmail.com.skambil.com
 gmail.com.tubidu.com
 gmail.com.whatistrust.info
@@ -25070,6 +25073,7 @@ n0100.site
 n0pwdvault.com
 n0te.tk
 n19wcnom5j2d8vjr.ga
+n2snow.com
 n3n1cq.com
 n3tflx.club
 n4fd.com
@@ -37786,6 +37790,7 @@ wantwp.com
 waose.com
 waphonezip.com
 wapliuhe.net
+wappay.xyz
 wapqus.com
 waptruyenmienphi.com
 wapxxx.site
@@ -37983,6 +37988,7 @@ webgoda.com
 webhocseo.com
 webhomes.net
 webhostingwatch.ru
+webhostingwebsite.info
 webkitfoundation.net
 webkizlar.net
 webkoleso.info
@@ -50553,7 +50559,6 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
-alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -60129,7 +60134,6 @@ btcomic.com
 btcoon.info
 btcoon.org
 btcplay777.com
-btcprestige.net
 btcproductkey.com
 btcprostorage.com
 btcpurchases.site
@@ -61157,7 +61161,6 @@ c-resultsfitness.com
 c.alabamavape.com
 c.andreihusanu.ro
 c.hcac.net
-c.id
 c.kadag.ir
 c.kerl.gq
 c.nut.emailfake.nut.cc
@@ -66214,7 +66217,6 @@ correllohome.info
 correllohome.org
 correo.blogos.net
 correos-es.site
-correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -67615,6 +67617,7 @@ cycleaccess.com
 cycledynamicexert.site
 cycleflo.xyz
 cyclejudg.recipes
+cyclelove.cc
 cyclingcopywriter.com
 cyclingshop.live
 cyclisme-roltiss-over.com
@@ -71112,8 +71115,6 @@ doctruyemoi.com
 doctxyle.cf
 doctxyle.ml
 docu.me
-document.onreadystatechange
-document.title
 documentingyellowstone.com
 documentstorage4.com
 docusign-enterprise.com
@@ -75055,6 +75056,7 @@ eocoqoeoto.com
 eoctxd.icu
 eodfku.info
 eodocmdrof.com
+eogaf.com
 eoinbalara.com
 eojiu1.site
 eolif.com
@@ -95213,6 +95215,7 @@ kaskus.fun
 kasmabirader.com
 kasmail.com
 kasmirkebabhouse.com
+kaspar.lol
 kasper.uni.me
 kaspop.com
 kassenbon.cloud
@@ -101574,7 +101577,6 @@ luxuryshopforpants.com
 luxuryspanishrentals.com
 luxusmail.cf
 luxusmail.ml
-luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusroleplay.us
@@ -146213,7 +146215,6 @@ wapenshaw.xyz
 wapgwh.site
 wapixdev.com
 wapl.ga
-wappay.xyz
 wappia.app
 wapsound.ru
 wapsportsmedicine.net
@@ -146728,7 +146729,6 @@ webhostingdomain.ga
 webhostingjoin.com
 webhostingsimplicity.com
 webhostingtable.com
-webhostingwebsite.info
 webide.ga
 webimonster.com
 webinar-kochandkarki.live
@@ -147770,9 +147770,6 @@ windmaweek.gq
 windmaweek.ml
 windmine.tk
 window-55.net
-window.adsbygoogle
-window.livewire
-window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
