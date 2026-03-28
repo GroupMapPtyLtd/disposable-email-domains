@@ -12883,6 +12883,7 @@ care.feastday.click
 care.fliphq.click
 care.gettravellersrest.click
 care.meettravellersrest.click
+care.opentravellersrest.click
 care.setoffly.click
 care.switchonly.click
 care.thehike.click
@@ -57729,6 +57730,7 @@ skymail.gq
 skymail.store
 skymailapp.com
 skymailgroup.com
+skynestoffc.xyz
 skynet.infos.st
 skynetengine.xyz
 skynetfinancial.com
@@ -66360,6 +66362,7 @@ virginiaturf.com
 virginmmedia.com
 virginshuttle.com
 virginsrus.xyz
+virginvoyages.click
 virglio.com
 virgnmedia.com
 virgotv.com
